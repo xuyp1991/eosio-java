@@ -55,7 +55,7 @@ public class EOSFormatter {
     SIG_R1_ - Signature signed with key generated with secp256r1 algorithm.
     SIG_K1_ - Signature signed with key generated with secp256k1 algorithm.
      */
-    private static final String PATTERN_STRING_EOS_PREFIX_EOS = "EOS";
+    private static final String PATTERN_STRING_EOS_PREFIX_EOS = "JZZ";
     private static final String PATTERN_STRING_EOS_PREFIX_PUB_R1 = "PUB_R1_";
     private static final String PATTERN_STRING_EOS_PREFIX_PUB_K1 = "PUB_K1_";
     private static final String PATTERN_STRING_EOS_PREFIX_PVT_R1 = "PVT_R1_";
